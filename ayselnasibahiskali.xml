@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<name>Aysel</name>
+<surname>Nasibahıskalı</surname>
+<heading>XML PROJECT</heading>
+</bookstore>
+
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Bin Dokuz Yüz Seksen Dört</title>
+        <author>George Orwell</author>
+        <year>2008</year>
+        <price>15,00 TL</price>
+        <ISBN>9786257300117</ISBN>
+        <publication>Kapra Yayıncılık</publication>
+        <physicaldescription>12.5 x 19.5 cm, 296 s.</physicaldescription>
+        <abstract>Geçmişi kontrol eden, geleceği de kontrol eder: Şimdiyi kontrol eden, geçmişi de kontrol eder. Her şey 1984 yılında geçer. Birbiriyle mütemadiyen savaşan üç büyük gücün elinde bölünmüş bir dünya, mutlak güce sahip bir Parti, kapanması yasak tele-ekranlarla her hareketi denetleyen Düşünce Polisi, her şeyi izleyen Büyük Birader ve diğer tüm düşünce biçimlerini imkânsız hâle getirmek için oluşturulan “Yenidil”. Gerçek Bakanlığı’nın altındaki Arşiv Bölümü’nün gözlerden ırak odalarında, Parti’nin ihtiyaçları-na göre geçmişi yeniden yazan Winston Smith’in oyununda arka plan bu kâbustur işte. Herkesi dilediği gibi kontrol eden bu totaliter dünyaya karşı içinde isyan tohumları büyüyen Winston, hakikat ve özgürlüğe duyduğu özlemin yanında aşka da kayıtsız kalamayacaktır.</abstract>
+    
+    </book>
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Körlük</title>
+        <author>Jose Saramago</author>
+        <year>2014</year>
+        <price>19,48 TL</price>
+        <ISBN>9786052980811</ISBN>
+        <publication>Kırmızı Kedi Yayınları</publication>
+        <physicaldescription>13.5 x 19.5 cm, 336 s.</physicaldescription>
+        <abstract>Adı bilinmeyen bir ülkenin adı bilinmeyen bir kentinde, arabasının direksiyonunda trafik ışığının yeşile dönmesini bekleyen bir adam ansızın kör olur. Ancak karanlıklara değil, bembeyaz bir boşluğa gömülür. Arkasından, körlük salgını bütün kente, hatta bütün ülkeye yayılır. Ne yönetim kalır ülkede, ne de düzen; bütün körler karantinaya alınır. Hayal bile edilemeyecek bir kaos, pislik, açlık ve zorbalık hüküm sürmektedir artık. Yaşam durmuştur, insanların tek çabası, ne pahasına olursa olsun hayatta kalmaktır. Roman, kentteki akıl hastanesinde karantinaya alınan, oradan kurtulunca da birbirinden ayrılmayan, biri çocuk yedi kişiye odaklanır. Aralarında, bütün kentte gözleri gören tek kişi olan ve gruptakilere rehberlik eden bir kadın da vardır. Bu yedi kişi, cehenneme dönen bu kentte, hayatta kalabilmek için inanılmaz bir mücadele verir. Saramago’nun müthiş bir gözlem gücüyle betimlediği bu kaotik dünya, insanın karanlık yüzünün simgesi.</abstract>
+     
+    </book>
+    
+    
+    
+    <book categori="Mühendislik">
+        <title lang="tur">İnsan ve Makine</title>
+        <author>Olivier Blanchard, Daniel Newman Orenda</author>
+        <year>2012</year>
+        <price>19,20 TL</price>
+        <ISBN>9786050674057</ISBN>
+        <publication>Orenda Yayınları</publication>
+        <physicaldescription>13.5 x 21 cm, 272 s.</physicaldescription>
+        <abstract>Bu eser makinelerle ortak bir şekilde nasıl çalışacağımızı araştırıyor. Kurumların, şirketlerin, bireylerin ve eğitimcilerin yeni teknolojilerle sorunsuz bir şekilde entegre olmak için nasıl gelişeceğini detaylandırıyor. Üzerinde durulan özel konularla bu kitap, geleceğe bir bakış sunuyor ve en iyi şirketlerin nasıl geliştiğini inceliyor. Tedarik zincirinde sorunlar ortaya çıkmadan önce çözen botlar ve öngörücü teknolojilerle entegre edilmiş proje yönetimi ekiplerine kadar yazarlar, otomasyon ve yapay zekanın benimsenmesi için güçlü bir manifesto sunuyorlar. Çok daha akıcı, becerilere dayalı bir ekonomide, hepimizin değerimizi ve beceri tabanımızı geleceğe kanıtlamamız gerekecek. Bu kitap, geride kalmaktan kaçınmak ve insan-makine ortaklığı ekosistemlerine özgü fırsatları ortaya çıkarmak için bir fikir sunuyor.</abstract>
+       
+    </book>
+    
+    
+    
+    <book categori="Mühendislik">
+        <title lang="en">Machine Learning in Finance: From Theory to Practice</title>
+        <author>Matthew F. Dixon, Igor Halperin, Paul Bilokon</author>
+        <year>2020</year>
+        <price>725,90 TL</price>
+        <ISBN>9783030410674</ISBN>
+        <publication>Springer</publication>
+        <physicaldescription>15.6 x 23.39 cm, 445 s.</physicaldescription>
+        <abstract>Bu kitap, finansta makine öğrenimi yöntemlerini tanıtıyor. Finansal ekonometri ve ayrık zamanlı stokastik kontrol gibi kantitatif finansta makine öğreniminin ve çeşitli istatistiksel ve hesaplama disiplinlerinin birleşik bir muamelesini sunar ve teori ve hipotez testlerinin finansal veri modelleme ve karar verme için algoritma seçimini nasıl bilgilendirdiğine vurgu yapmaktadır. Hesaplamalı kaynakları ve daha büyük veri kümelerini artırma eğilimiyle birlikte makine öğrenimi, finans sektörü için önemli bir beceri seti haline gelmiştir. Bu kitap, finansal ekonometri, matematiksel finans ve uygulamalı istatistik alanlarında ileri düzey lisansüstü öğrenciler ve akademisyenler için, ayrıca nicel finans alanındaki soru ve veri bilimcileri için yazılmıştır. Finansta Makine Öğrenimi: Teoriden Pratiğe, her bölüm teori ve uygulamaları kapsayan üç bölüme ayrılmıştır. İlki, hem Bayes hem de sıklık perspektifinden kesitsel veriler için denetimli öğrenmeyi sunmaktadır.</abstract>
+        
+    </book>
+    
+    
+    
+    <book categori="Ekonomi">
+        <title lang="en">Trading Evolved: Anyone can Build Killer Trading Strategies in Python</title>
+        <author>Andreas F. Clenow</author>
+        <year>2019</year>
+        <price>311,77 TL</price>
+        <ISBN>9781091983786</ISBN>
+        <publication>Independently Published</publication>
+        <physicaldescription>19.05 x 23.5 cm, 317 s.</physicaldescription>
+        <abstract>Sistematik ticaret, paranızı riske atmadan önce ticaret fikirlerinizi test etmenizi ve değerlendirmenizi sağlar. Ticaret fikirlerini somut kurallar olarak formüle ederek, geçmiş performansı değerlendirebilir ve ticaret planınızın uygulanabilirliği hakkında sonuçlar çıkartabilirsiniz.Sistematik kuralları takip etmek, bir dereceye kadar getirilerin tahmin edilebilirliğine sahip olacağınız tutarlı bir yaklaşım sağlar ve belki daha da önemlisi, duyguları ve ikinci tahminleri denklemden çıkarır.Başlangıçtan itibaren, profesyonel düzeyde geliştirme ve sistematik stratejilerin geriye dönük testine başlamak göz korkutucu görünebilir. Çoğu, potansiyelinizi sınırlayacak basitleştirilmiş yazılıma başvurur.Trading Evolved, endüstri standardı Python dilini kullanmaya başlamaktan kendi profesyonel bir arka test ortamını kurmaya kadar size rehberlik edecektir. Kitap, sizi profesyonel bir sistematik tüccar olma yolunda ilerletmek için birden fazla ticaret stratejisini tam kaynak koduyla ayrıntılı olarak açıklayacaktır.Bu, her yönünün açıklandığı, tüm kaynak kodlarının gösterildiği ve hiçbir kısıtlamanın yasaklanmadığı oldukça pratik bir kitaptır.</abstract>
+        
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="en">Chess</title>
+        <author>Stefan Zweig</author>
+        <year>2018</year>
+        <price>5,49 TL</price>
+        <ISBN>9786059919272</ISBN>
+        <publication>Literart Yayınları</publication>
+        <physicaldescription>21 x 13 cm, 80 s.</physicaldescription>
+        <abstract>The Royal Game olarak da bilinen Chess Story, Avusturyalı usta Stefan Zweig'in Brezilya'da sürgünde tamamlanan ve 1942'de intiharından sadece birkaç gün önce Amerikalı yayıncısına gönderilen nihai başarısıdır. Zweig'in Nazizme baktığı tek hikaye budur ve bunu psikolojik olana karakteristik bir vurgu yaparak yapar. New York'tan Buenos Aires'e gemiyle seyahat edenler, yanlarında satrançta dünya şampiyonu, kibirli ve düşmanca bir adam olduğunu fark ederler. Becerilerini ona karşı denemek için bir araya gelirler ve büyük bir yenilgiye uğrarlar. Sonra gizemli bir yolcu onlara tavsiyelerde bulunmak için öne çıkar ve servetleri değişir. Zweig'in öyküsünün temelinde satranç oyununa ilişkin olağanüstü kavrayışına nasıl sahip olduğu ve bedeli ne kadar yattığı Şşeklindedir.</abstract>
+     
+    </book>
+    
+    
+    <book categori="Edebiyat">
+        <title lang="en">A Haunted House</title>
+        <author>Virginia Woolf</author>
+        <year>2015</year>
+        <price>9,90 TL</price>
+        <ISBN>9786059919050</ISBN>
+        <publication>Literart Yayınları</publication>
+        <physicaldescription>93 s.</physicaldescription>
+        <abstrac>Virginia Woolf'un Perili Ev hikayesi, sembolizm, imgeler ve ironiyle dolu bir kısa öyküdür. Hikaye, okuyucunun hayaletlerin ve yaşayan insanların nasıl hissettiğini daha derinlemesine algılamasına yardımcı olan ve okuyucunun bu düzlükle ilgili bazı düşünceleri anlamasına yardımcı olan üçüncü şahıs sınırlı veya sınırlı her şeyi bilme bakış açısıyla anlatılır. , statik karakterler hikaye boyunca var. Zaman periyodu hiçbir zaman açıkça belirtilmemiştir, ancak uzun zaman önce, muhtemelen 1800'lerin sonlarında, bahçeli eski bir İngiliz evinde olduğu görülmektedir. Perili Ev, bir zamanlar kendilerine ait olan bir evde dolaşan erkek ve kadın hayalet bir çift hakkındadır. Evde bulunmalarının nedeni gömülü hazine aramalarıdır.</abstrac>
+        
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">İnsan Neyle Yaşar?</title>
+        <author>Lev Nikolayeviç Tolstoy</author>
+        <year>2018</year>
+        <price>5,69 TL</price>
+        <ISBN>9786053607038</ISBN>
+        <publication>İş Bankası Kültür Yayınları</publication>
+        <physicaldescription>20.5 x 12.5 cm, 101 s.</physicaldescription>
+        <abstract>Anna Karenina, Savaş ve Barış, Kreutzer Sonat ve Diriliş'in büyük yazarı, yaşamının son otuz yılında kendini insan, aile, din, devlet, toplum, özgürlük, boyun eğme, başkaldırma, sanat ve estetik konularında kuramsal çalışmalara verdi. Bu dönemde yazdığı öykülerde yıllarca üzerinde düşündüğü insanlık sorunlarını edebi bir kurgu içinde ele aldı. Tolstoy, insan sevgisi ve inanç konularını ustalığının bütün inceliğiyle işlerken, İnsan Neyle Yaşar? ile gerçek hayatı yansıtan tabloların içinde yeni bir ahlak anlayışını ortaya koydu. </abstract>
+        
+    </book>
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Altıncı Koğuş</title>
+        <author>Anton Pavloviç Çehov</author>
+        <year>2017</year>
+        <price>3,85 TL</price>
+        <ISBN>9786052951569</ISBN>
+        <publication>İş Bankası Kültür Yayınları</publication>
+        <physicaldescription>12.3 x 20.3 cm, 68 s.</physicaldescription>
+        <abstract>Çehov bir taşra kasabasındaki akıl hastanesinde geçen bu novellasında, eğitimli bir hasta olan İvan Dmitriç ile Doktor Andrey Yefimıç arasındaki felsefi çatışmaya odaklanır. İvan Dmitriç maruz kaldıkları adaletsizliğe, içinde yaşamaya zorlandıkları berbat koşullara karşı çıkarken, Andrey Yefimıç bunları görmezden gelmekte ısrar eder ve durumu değiştirmek için kılını bile kıpırdatmaz. Doktor sonunda içine düştüğü "felsefi" yanılgının farkına vardığında ise artık iş işten geçmiştir. Altıncı Koğuş, Rusya'nın ve ülkenin sorunlarıyla ilgilenmek yerine onları uzaktan izlemeyi tercih eden elit Rus aydınının "deliliği"nin simgesidir.</abstract>
+         
+    </book>
+    
+    
+    <book categori="Biyografi">
+        <title lang="en">Lion Hearted, The Life and Death of Cecil and the Future of Africa's Iconic Cats</title>
+        <author>Andrew Loveridge</author>
+        <year>2018</year>
+        <price>157,90 TL</price>
+        <ISBN>9781682451205</ISBN>
+        <publication>Regan Arts</publication>
+        <physicaldescription>15.24 x 22.86 cm</physicaldescription>
+        <abstract>2015 yılında Walter Palmer adlı Amerikalı bir avcı Cecil adında bir aslanı vurdu ve öldürdü. Aslan, her yıl büyük kedilerin avlanmasına yasal olarak izin veren Zimbabwe'de öldürülen düzinelerce kişiden biriydi. Ancak Cecil'in ölümü, benzeri görülmemiş bir küresel öfkeye yol açtı ve bu avı çevreleyen tuhaf koşullar hakkında binlerce medya haberini ateşledi. Tartışmanın merkezinde, sekiz yıldır Cecil'i inceleyen zoolog Dr. Andrew Loveridge vardı. Lion Hearted'da Loveridge, bu sevilen aslanın katledilmesinin büyüleyici hayatını ve karanlık ayrıntılarını ilk kez bir araya getiriyor.</abstract>
+         
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Martin Eden</title>
+        <author>Jack London</author>
+        <year>2014</year>
+        <price>13,74 TL</price>
+        <ISBN>9786053322122</ISBN>
+        <publication>İş Bankası Kültür Yayınları</publication>
+        <physicaldescription>19.5 x 13 cm, 528 s.</physicaldescription>
+        <abstract>Jack London'ın yarı otobiyografik romanı Martin Eden, 20. yüzyıl başında sosyal ve ideolojik meseleler ağırlıklı içeriğiyle Amerikan edebiyatında büyük ölçüde kabul görmüştür. London farklı sınıflar arasındaki zihniyet ve değer farklarını gözlerimizin önüne sererken, statü ve servetin Amerikan toplumundaki hayati önemine işaret eder. Romanın ana temalarından biri, başarı ve refah yolunun sosyal sınıf farkı gözetilmeksizin herkese açık olduğu şeklinde özetlenebilecek Amerikan Rüyası'dır. Ya da bu idealin yarattığı muazzam hayal kırıklığı.London, romanı bir sanatçının çıraklıktan olgunluğa geçiş sürecini işleyen Künstlerroman geleneğinde yazmıştır. Martin'in aşkı uğruna eğitimsiz genç bir işçiden başarılı ve rafine bir yazara dönüşüm mücadelesini anlatır. Kahramanı hedefine ulaştığında ise motivasyonunu ve heyecanını çoktan yitirmiş, trajik bir sona doğru sürüklenmektedir.</abstract>
+        
+    </book>
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Jane Eyre</title>
+        <author>Charlotte Bronte</author>
+        <year>2007</year>
+        <price>12,09 TL</price>
+        <ISBN>9789750738876</ISBN>
+        <publication>Can Yayınları</publication>
+        <physicaldescription>12.3 x 19.3 cm, 632 s.</physicaldescription>
+        <abstract>Küçük yaşta öksüz kalan Jane Eyre, kendisini hiçbir zaman sevmeyen ancak kocasının vasiyeti üzerine bakımını üstlenen yengesiyle zor bir yaşam sürmektedir. Katı kurallarla yönetilen bir yatılı okula gönderilince, bu kez hayatın başka zorluklarıyla yüzleşmek zorunda kalır. Okulda geçirdiği on yılın ardından öğretmen olarak mezun olur. Edward Rochester'ın malikanesinde mürebbiye olarak iş bulur. Evin gizemli efendisi Rochester'a aşık olur; ancak onu hayal bile edemeyeceği zorluklar ve acılar beklemektedir. 19. yüzyıl İngiltere'sinde, her türlü tutuculuğun kol gezdiği Victoria döneminde geçen Jane Eyre, birçoklarınca kadın hak ve özgürlüklerine sahip çıkan ilk romanlardan biri olarak kabul edilir. Yazarı Charlotte Bronte'nin yaşamından izler de taşıyan roman, zorlu bir yaşam süren yapayalnız bir genç kızın güçlü bir kadına dönüşmesinin öyküsüdür.</abstract>
+        
+    </book>
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Büyük Umutlar</title>
+        <author>Charles Dickens</author>
+        <year>1983</year>
+        <price>13,86 TL</price>
+        <ISBN>9789750738968</ISBN>
+        <publication>Can Yayınları</publication>
+        <physicaldescription>12.7 x 19.2 cm, 656 s.</physicaldescription>
+        <abstract>Büyük Umutlar, XIX. yüzyıl İngiltere'sinde taşra ortamından büyük kente uzanan tam bir Victoria dönemi romanıdır. Charles Dickens, bu olgunluk dönemi eserinde köyünde zor bir çocukluk geçirdikten sonra esrarengiz bir mirasa konan Pip'in maceralarını anlatır. Gönlü karasevdayla, gözü yükselme hırsıyla perdelenmiş genç Pip'in serüvenleri, sanayileşen toplumdaki sevgisizliği, ikiyüzlülüğü ve para hırsını gözler önüne serer. Büyük Umutlar, Londra'da beyefendi konumuna yükselen Pip'in başından geçenleri anlatmakla kalmaz, birbirinden ilginç karakterlerle tanıştırır okuru. Dickens, romanın kahramanı Pip'in düşünce yapısını büyük bir incelikle ele alır. Bir yandan bireylerin düşkünlüklerini, başarısızlıklarını anlatırken diğer yandan da çağın gerçeklerine ve değerlerine ayna tutar.</abstract>
+         
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Çılgın Kalabalıktan Uzak</title>
+        <author>Thomas Hardy</author>
+        <year>2019</year>
+        <price>13,65 TL</price>
+        <ISBN>9789750739569</ISBN>
+        <publication>Can Yayınları</publication>
+        <physicaldescription>20.5 x 12.5 cm, 499 s.</physicaldescription>
+        <abstract>Güzel Bathsheba Everdene, kendisine miras kalan büyük ve bakımsız çiftliği çekip çevirmek için Weatherbury köyüne gelir. İçgüdülerine göre hareket eden Bathsheba, köydeki üç erkek, atılgan ama sorumsuz Çavuş Troy, saplantılarının tutsağı olan Çiftçi William Boldwood, sadık ve becerikli Gabriel Oak arasında bocalarken duygusal bir eğitimden geçecektir. İngiltere'nin güneybatısındaki düşsel Wessex bölgesinde geçen romanlarıyla tanınan Thomas Hardy, Çılgın Kalabalıktan Uzak yapıtıyla büyük ün kazanmıştı. Mizahi, melodramatik, pastoral ve trajik öğeleri ustaca harmanlayan roman, Hardy'nin her zamanki ihanet ve aşk acısı temalarını işlemesinin yanı sıra en sıcak, en eğlenceli yapıtlarından biridir.</abstract>
+        
+    </book>
+    
+    
+    <book categori="Sosyoloji">
+        <title lang="en">The Sociology Book: Big Ideas Simply Explained</title>
+        <author>Dorling Kindersley</author>
+        <year>2015</year>
+        <price>496,00 TL</price>
+        <ISBN>9780241182291</ISBN>
+        <publication>DK</publication>
+        <physicaldescription>20.3 x 24.1 cm, 352 s.</physicaldescription>
+        <abstract>Sosyoloji alanındaki 80'den fazla büyük fikir ve temel teoriyi açık ve basit bir şekilde keşfederek, bu, insanların nasıl yaşadıkları ve birbirleriyle nasıl etkileşimde bulunduklarının araştırılmasına mükemmel bir giriş niteliğindedir. Çeşitlilik ve eşitlik, küreselleşme, insan hakları, modern kent yaşamı ve iş ve kurumların rolünü kapsayan Sosyoloji Kitabı, nasıl işbirliği yaptığımıza dair büyük sorulara bakıyor: Toplum nedir? Onu harekete geçiren nedir? Neden arkadaşlarımızla, iş arkadaşlarımızla ve rakiplerimizle yaptığımız gibi etkileşime giriyoruz? Bu büyüleyici konuyu keşfetmenin mükemmel yolu olan The Sociology Book, dünyanın en ünlü sosyologlarını ve ilk öncüleri Karl Marx ve Auguste Comte'den Sharon Zukin ve Judith Butler'ın çığır açan çalışmalarına kadar 80'den fazla en büyük fikirlerini gösteriyor. Her bir sosyolojik teori, her fikri kolay anlaşılır bir şekilde açıklayan ilginç grafikler, özlü alıntılar ve adım adım özetlerin yardımıyla kristal netliğe kavuşturulur.</abstract>
+         
+    </book>
+    
+    
+    
+    <book categori="Tarih">
+        <title lang="en">The Mythology Book: Big Ideas Simply Explained </title>
+        <author>Dorling Kindersley</author>
+        <year>2018</year>
+        <price>182,00 TL</price>
+        <ISBN>9780241301913</ISBN>
+        <publication>DK</publication>
+        <physicaldescription>20 x 24 cm, 352 s.</physicaldescription>
+        <abstract>Erken yaratılış inançlarından klasik kahraman anlatılarına ve ölümden sonraki yaşamın yinelenen temasına kadar 80'den fazla klasik efsane yeniden anlatıldı ve açıklandı. En çok satan Büyük Fikirler serisinin en son başlığı olan The Mythology Book, mitlerde ve efsanelerde tasvir edilen ilgi çekici dünyaları ve karakterleri araştırıyor. Her mitin derinliklerine inin ve bu hikayelerin ardındaki anlamları keşfedin, dünya çapındaki farklı kültürler için önemlerinin özüne inin. Sadece hikayelerden daha fazlası, mitler, etraflarındaki dünyayı açıklamaya ve anlamlandırmaya çalışan insanların inanılmaz yaratıcılığının kanıtıdır. En sevdiğiniz mitleri yeniden ziyaret edin ve yepyeni efsaneleri keşfedin - gökyüzünün tanrısı ve Olimpiya tanrılarının hükümdarı Zeus'u, tahribata neden olan kurnaz düzenbaz Loki'yi, güçlü çekiciyle Thor'u ve yeraltı dünyasının hükümdarı Hades'i keşfedin. Antik Yunan, Roma ve İskandinav mitlerinin tanrı ve tanrıçalarının ötesinde, bu kitap Avustralya yerlileri, Çerokiler ve Aztekler tarafından dokunan hikayeleri araştırıyor, her biri harika karakterler ve insan varoluşuna dair içgörülerle dolu.</abstract>
+        
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="en">Sense and Sensibility</title>
+        <author>Jane Austen</author>
+        <year>2019</year>
+        <price>25,00 TL</price>
+        <ISBN>9786052491966</ISBN>
+        <publication>Dorlion Yayınları</publication>
+        <physicaldescription>13.97 x 21.59 cm, 299 s.</physicaldescription>
+        <abstract>Jane Austen, ikonik romantik yazısıyla tanınan bir İngiliz romancıydı. 16 Aralık 1775'te İngiltere, Hampshire'da doğdu. Jane Austen, çocukluğu boyunca babası ve büyük kardeşleri tarafından evde eğitim gördü. Yazılı bir roman da dahil olmak üzere çeşitli edebiyat formlarını deneyerek, genç yaşlarında yazmaya başladı. Jane Austen, tüm zamanların en çok okunan ve en değerli yazarlarından biri olarak kabul edilmektedir. Özellikle romanları ile tanınır: Duygu ve Duyarlılık. Pride and Prejudice, Mansfield Park, diğer romanlarından Emma Two, Northanger Abbey ve Persuasion, ölümünden sonra yayınlandı. Son romanı. Sanditon, tamamlanamadan öldüğü için asla tamamlanmadı.18 Temmuz 1817'deki ölümünün sığır tüberkülozundan kaynaklandığına inanılıyor.</abstract>
+         
+    </book>
+    
+    
+    <book categori="Tarih">
+        <title lang="tur">Anadolu Kültür Tarihi</title>
+        <author>Ekrem Akurgal</author>
+        <year>2014</year>
+        <price>63,69 TL</price>
+        <ISBN>9786054657919</ISBN>
+        <publication>Phoenix</publication>
+        <physicaldescription>19.5 x 13.5 cm, 417 s.</physicaldescription>
+        <abstract>Kitaplarında “yarı bilimsel, yarı popüler ve her aydının anlayabileceği” bir dil seçen EkremAkurgal, bu geleneğini Anadolu Kültür Tarihi kitabında da sürdürerek, şimdinin ve geleceğinbilim insanlarına Anadolu’yla ilgili ışık tutmaktadır.Bu kitapta, Dünya’nın kültür mirasına sayısız katkı yapan Anadolu Uygarlıkları’nın tarih öncesi dönemlerden ilkçağa kadar olan öyküsünü, kronolojik ve görsellerle desteklenmiş bir biçimde bulacaksınız.</abstract>
+         
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Kızıl Veba</title>
+        <author>Jack London</author>
+        <year>2020</year>
+        <price>5,04 TL</price>
+        <ISBN>9786257070782</ISBN>
+        <publication>İş Bankası Kültür Yayınları</publication>
+        <physicaldescription>12.5 x 20.5 cm, 72 s.</physicaldescription>
+        <abstract>Jack London, 1912 yılında İngiltere’de London Magazine’de yayımlanmaya başlayan Kızıl Veba yapıtıyla “kıyamet sonrası” edebiyatın öncüleri arasına girmiştir. Nüfustaki, bilim ve teknikteki, ekonomideki sıçramaların büyüsüyle gözlerin kamaştığı bir çağda yazar, uygarlığımızın kırılganlığını anımsatır. Yapıtı milyonlarca insanın doldurduğu şehirlerin ve kırların ıssızlığa teslim oluşundaki hızı bütün çarpıcılığıyla ortaya koyar. Yalnızca nüfusun değil, bilginin, üretimin, hatta dilin yitirilişi, eski uygarlıkla köprü olan bir profesörün gözünden yeni insanlığa anlatılır. Peki yeni insanlık bu ihtiyara kulak verecek midir? Kızıl Veba’da yirminci yüzyılın başından yüz yıl sonrasına, 2010’lar dünyasına bakan Jack London’ın öngörülerindeki keskinlik, kitabı bir klasik olmanın ötesinde, günümüz için hâlâ canlı bir eleştiri kılıyor.</abstract>
+         
+    </book>
+    
+    
+    
+    <book categori="Edebiyat">
+        <title lang="tur">Doğunun Limanları</title>
+        <author>Amin Maalouf</author>
+        <year>2019</year>
+        <price>12,65 TL</price>
+        <ISBN>9789750809774</ISBN>
+        <publication>Yapı Kredi Yayınları</publication>
+        <physicaldescription>13.5 x 21 cm, 183 s.</physicaldescription>
+        <abstract>Roman, II. Dünya Savaşı'nda Filistin ve Lübnan'da yaşanan bölünmeleri anlatır ve Orta Doğu'daki olaylara üstü kapalı çözümler sunar. Romanın baş kahramanı; annesi Ermeni olan, İsyan isminde bir Osmanlı prensidir. İsyan müslümandır ve bir Yahudi ile evlenir. İnsanların hepsini kardeş olarak görür, ırk ayrımı yapmaz. Eser, kahraman bakış açısı ile yazılmıştır. Amin Maalouf, Osmanlı İmparatorluğu'nu, etnik çatışma ve çözülmeyi, Avrupa'yla Doğu'nun, dillerin ve dinlerin tanışma noktası Doğu Limanları'nı anlatıyor. İnce dokunmuş bir tarih örtüsüne işlenmiş kentler ve yaşamlar var bu satırlarda.</abstract>
+        
+    </book>
+    
+     
